@@ -5,9 +5,9 @@
 # Set environment
 rm(list = ls())
 # Set environment paths
-data_path <- "//wel-storage1/cphrwel/Projects/EHI/Domains/Climate Change/Heatwave project 2020/Data/2025/Temperature/All Stations"
-save_path <- "//wel-storage1/cphrwel/Projects/EHI/Domains/Climate Change/Heatwave project 2020/Auckland project/All R works - final/All_threshold_Auck - 3ybaselinemort"
-mort_path <- "//wel-storage1/cphrwel/Projects/EHI/Domains/Climate Change/Heatwave project 2020/Auckland project/Mortality data"
+data_path <- ""
+save_path <- ""
+mort_path <- ""
 # load libraries
 library(tidyverse)
 library(ggplot2)
